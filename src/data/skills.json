@@ -1,0 +1,66 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JS",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "Tailwind",
+    "imageSrc": "skills/tailwind.png"
+  },
+  {
+    "title": "Chakra UI",
+    "imageSrc": "skills/chakra.png"
+  },
+  {
+    "title": "Shadcn UI",
+    "imageSrc": "skills/shadcn.png"
+  },
+  {
+    "title": "Redux",
+    "imageSrc": "skills/redux.png"
+  },
+  {
+    "title": "React Query",
+    "imageSrc": "skills/react-query.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "NextJS",
+    "imageSrc": "skills/nextjs.png"
+  },
+  {
+    "title": "Expo Go",
+    "imageSrc": "skills/expo.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Express",
+    "imageSrc": "skills/express.png"
+  },
+  {
+    "title": "Nest JS",
+    "imageSrc": "skills/nest.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]

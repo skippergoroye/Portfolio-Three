@@ -1,0 +1,31 @@
+[
+  {
+    "role": "Frontend Engineer",
+    "organisation": "Vesti",
+    "startDate": "Sept, 2022",
+    "endDate": "Present",
+    "experiences": ["Worked on Google Maps", "Reduced load times by 50%", "Reduced load times by 50%"],
+    "imageSrc": "history/vesti.png"
+  },
+  {
+    "role": "Frontend Engineer",
+    "organisation": "Sabiroad",
+    "startDate": "Apr, 2020",
+    "endDate": "Jun, 2020",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components",
+      "Reduced load times by 50%"
+    ],
+    "imageSrc": "history/sabiroad.jpg"
+  },
+  {
+    "role": "Frontend Engineer",
+    "organisation": "Decagon",
+    "startDate": "Aug, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": ["Worked on Windows 11", "Designed the control panel", "Reduced load times by 50%"],
+    "imageSrc": "history/decagon.png"
+  }
+  
+]
